@@ -49,7 +49,7 @@ render() {
 
  <ol>
 
- <li key="location1">Goa</li>
+ <li key="location1">Brandenburg Gate</li>
 
  <li key="location2">Amsterdam</li>
 
