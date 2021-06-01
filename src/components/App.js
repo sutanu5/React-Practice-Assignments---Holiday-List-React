@@ -51,13 +51,13 @@ render() {
 
  <li key="location1">Goa</li>
 
- <li key="location2">Amsterdam</li>
 
- <li key="location3">New York</li>
+
+
 
  <li key="location4">Darjeeling</li>
 
- <li key="location5">Tokyo</li>
+
 
  <li key="location6">Lonavala</li>
 
